@@ -1,13 +1,3 @@
-"""
-oldgl.py
-
-A demonstration of the now deprecated fixed function pipeline OpenGL API.
-
-Author: Mahesh Venkitachalam
-Website: electronut.in
-
-"""
-
 import sys
 from OpenGL.GLUT import *
 from OpenGL.GL import *
