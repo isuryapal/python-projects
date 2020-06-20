@@ -1,12 +1,3 @@
-"""
-simpleglfw.py
-
-Simple Python OpenGL program that uses PyOpenGL + GLFW to get an 
-OpenGL 3.2 context.
-
-Author: Mahesh Venkitachalam
-"""
-
 import OpenGL
 from OpenGL.GL import *
 
